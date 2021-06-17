@@ -13,6 +13,6 @@
 [github]: https://github.com/Trevor-Opiyo "Click here to see samples of my code"
 [rust-passmaker]: https://github.com/Trevor-Opiyo/rust-passmaker "Click here to see my password generator written in rust"
 [zshrc]: https://github.com/Trevor-Opiyo/config/blob/master/.zshrc "Click here to see my scripting environment"
-[resume]: /resume.pf "Click here to see my contact info"
+[resume]: /Resume.pdf "Click here to see my contact info"
 [linkedin]: https://www.linkedin.com/in/trevor-opiyo-884604165 "Connect with me on Linkedin"
 [blog]: /blog/ "Click here to read my blog"
