@@ -1,18 +1,37 @@
-<h1 align="center"> Trevor Opiyo </h1>
+<h1 align="center">
+	Trevor Opiyo
+</h1>
 
-<div align="center"> I'm Trevor Opiyo, a software developer with a background in systems programming and shell scripting.  
-	
-<h3 align="center">**[Resume][resume]** · **[GitHub][github]** · **[Linkedin][linkedin]** · **[Blog][blog]**
+<h3 align="center">
+	I'm Trevor Opiyo, a software developer with a background in systems programming and shell scripting.
+</h3>
+
+<h2 align="center">
+	<a href="resume.pdf">
+		Resume
+	</a>
+	<a>
+		·
+	</a>
+	<a href="https://www.linkedin.com/in/trevor-opiyo-884604165">
+		Linkedin
+	</a>
+	<a>
+		·
+	</a>
+	<a href="https://github.com/Trevor-Opiyo">
+		GitHub
+	</a>
+	<a>
+		·
+	</a>
+	<a href="blog.html">
+		Blog
+	</a>
+</h2>
 
 ---
 
 <img src="swift.png" alt="swift-passmaker" width="500"/>
 <img src="python.png" alt="python-passmaker" width="500"/>
 <img src="zshrc.png" alt="zshrc" width="500"/>
-
-[github]: https://github.com/Trevor-Opiyo "Click here to see samples of my code"
-[rust-passmaker]: https://github.com/Trevor-Opiyo/rust-passmaker "Click here to see my password generator written in rust"
-[zshrc]: https://github.com/Trevor-Opiyo/config/blob/master/.zshrc "Click here to see my scripting environment"
-[resume]: /Resume.pdf "Click here to see my contact info"
-[linkedin]: https://www.linkedin.com/in/trevor-opiyo-884604165 "Connect with me on Linkedin"
-[blog]: /blog/ "Click here to read my blog"
