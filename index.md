@@ -2,9 +2,9 @@
 	Trevor Opiyo
 </h1>
 
-<h3 align="center">
+<div align="center">
 	I'm Trevor Opiyo, a software developer with a background in systems programming and shell scripting.
-</h3>
+</div>
 
 <h2 align="center">
 	<a href="resume.pdf">
